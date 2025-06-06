@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xAikq/xAikq/main/banner.png" alt="banner" width="1000"/>
+  <img src="https://raw.githubusercontent.com/xAikq/xAikq/main/banner.png" alt="banner" width="500"/>
 </p>
 
 <h1 align="center"><sub><code>stderr: InsomniaError → brain has stopped responding</code></sub></h1>
