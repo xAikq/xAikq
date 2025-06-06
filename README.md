@@ -17,7 +17,7 @@ class Developer:
     def __init__(self):
         self.name = "aik"
         self.alias = "xAikq"
-        self.stack = ["Python 🐍", "Git ⚙️", "Insomnia ☕"]
+        self.stack = ["Python 🐍", "Caffeine dependence ☕", "Insomnia moment 🌙"]
         self.status = "Refactoring life choices..."
         self.university = "ITMO University 🎓"
         self.location = "Saint Petersburg 🌌"
@@ -55,9 +55,3 @@ print(Developer())
     <img src="https://img.shields.io/badge/-@xAikq-0A0A0A?style=flat-circle&logo=telegram&logoColor=white&labelColor=0A0A0A" alt="Telegram" />
   </a>
 </p>
-
-
-
-
-
-<p align="center"><code>// idk man, it's all just stack traces and caffeine now</code></p>
