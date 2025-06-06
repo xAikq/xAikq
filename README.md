@@ -1,11 +1,34 @@
-<h1 align="center">👾 aik</h1>
-<p align="center"><code>echo 'try alt+f4 irl, idk...'</code></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xAikq/xAikq/main/banner.png" alt="banner" width="1000"/>
+</p>
 
-[//]: # (<p align="center">)
+<h1 align="center"><sub><code>stderr: InsomniaError → brain has stopped responding</code></sub></h1>
 
-[//]: # (  <img src="https://media.giphy.com/media/UWAw9ZytxbX0w/giphy.gif" width="400" alt="dead inside">)
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓%20ITMO%20University-%230A0A0A.svg?style=flat" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/🧠%20AI%20&%20Algorithms-%230A0A0A.svg?style=flat" />
+  <img src="https://img.shields.io/badge/☕%20caffeine%20dependent-%230A0A0A?style=flat" />
+  <img src="https://img.shields.io/badge/🌙%20insomniac%20mode-%230A0A0A?style=flat" />
+</p>
 
-[//]: # (</p>)
+```python
+class Developer:
+    def __init__(self):
+        self.name = "aik"
+        self.alias = "xAikq"
+        self.stack = ["Python 🐍", "Git ⚙️", "Insomnia ☕"]
+        self.status = "Refactoring life choices..."
+        self.university = "ITMO University 🎓"
+        self.location = "Saint Petersburg 🌌"
+        self.interests = ["algorithms", "cursed bugs", "late night debugging"]
+        self.quote = "either the code starts working or I press alt+f4 irl..."
+
+    def __str__(self):
+        return f"👾 {self.alias} — fueled by caffeine, curiosity, and ctrl+z"
+
+print(Developer())
+```
 
 ---
 
