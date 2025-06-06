@@ -5,11 +5,11 @@
 <h1 align="center"><sub><code>stderr: InsomniaError → brain has stopped responding</code></sub></h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓%20ITMO%20University-%230A0A0A.svg?style=flat" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/🧠%20AI%20&%20Algorithms-%230A0A0A.svg?style=flat" />
-  <img src="https://img.shields.io/badge/☕%20caffeine%20dependent-%230A0A0A?style=flat" />
-  <img src="https://img.shields.io/badge/🌙%20insomniac%20mode-%230A0A0A?style=flat" />
+  <img src="https://img.shields.io/badge/🎓%20ITMO%20University-%230A0A0A.svg?style=flat" width="145"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=yellow" width="83"/>
+  <img src="https://img.shields.io/badge/🧠%20Cursed%20Algorithms-%230A0A0A.svg?style=flat" width="167"/>
+  <img src="https://img.shields.io/badge/☕%20caffeine%20dependent-%230A0A0A?style=flat" width="170"/>
+  <img src="https://img.shields.io/badge/🌙%20insomniac%20mode-%230A0A0A?style=flat" width="154"/>
 </p>
 
 ```python
