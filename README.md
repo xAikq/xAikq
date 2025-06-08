@@ -15,8 +15,7 @@ class Developer:
         
         self.focus = [
             "Algorithms",
-            "Backend",
-            "Debugging"
+            "Backend"
         ]
 
     def __str__(self):
@@ -29,7 +28,10 @@ print(Developer())
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xAikq&show_icons=true&theme=default" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAikq&layout=compact&theme=default&langs_count=6" alt="Top Languages" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xAikq&show_icons=true&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAikq&layout=compact&theme=dark&hide_border=false&langs_count=8" />
+</p>
 
 ---
 
