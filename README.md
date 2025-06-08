@@ -30,9 +30,9 @@ print(Developer())
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xAikq&show_icons=true&theme=dark&hide_border=true"
-       width="360" alt="GitHub Stats" />
+       width="370" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAikq&layout=compact&langs_count=8&theme=dark&hide_border=true"
-       width="390" alt="languages graph" />
+       width="400" alt="languages graph" />
 </p>
 
 ---
