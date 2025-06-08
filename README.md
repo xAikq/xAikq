@@ -28,7 +28,7 @@ print(Developer())
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="center" style="display:flex;justify-content:center;align-items:center;gap:8px;">
   <img src="https://github-readme-stats.vercel.app/api?username=xAikq&show_icons=true&theme=dark&hide_border=false" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAikq&locale=en&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&theme=dark" height="170" alt="languages graph" />
 </p>
