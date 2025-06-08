@@ -28,12 +28,10 @@ print(Developer())
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display:inline-flex;align-items:center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xAikq&show_icons=true&theme=dark&hide_border=false"
-       alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAikq&layout=compact&theme=dark&hide_border=false&langs_count=6"
-       alt="Top Languages" style="margin-left:8px">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xAikq&show_icons=true&theme=dark&hide_border=false" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAikq&locale=en&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&theme=dark" height="170" alt="languages graph" />
+</p>
 
 ---
 
