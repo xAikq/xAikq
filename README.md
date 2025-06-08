@@ -1,9 +1,3 @@
-<h1 align="center">Hello, I am aik</h1>
-<p align="center"><span style="font-size: 18px;">Writing code. Sometimes even good code.</span></p>
-
-
----
-
 ```python
 class Developer:
     def __init__(self):
@@ -26,7 +20,7 @@ class Developer:
         ]
 
     def __str__(self):
-        return f"{self.name} — writing code that makes sense (most of the time)"
+        return f"{self.name} — I am writing code. Sometimes even good code."
 
 print(Developer())
 ```
