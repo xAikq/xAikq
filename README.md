@@ -4,7 +4,7 @@ class Developer:
         self.name = "aik"
         self.allies = "xAikq"
         self.university = "ITMO University"
-        self.location = "Saint Petersburg"
+        self.location = "Saint-Petersburg"
         
         self.stack = [
             "Python", 
