@@ -38,10 +38,6 @@ print(Developer())
 ---
 
 ## 📂 Featured Repositories
-
-- [🔹 LeetCode](https://github.com/xAikq/leetcode)  
-    Solutions to algorithmic challenges — clean, tested and commented.  
-    > My playground for logic, patterns and sharp thinking.
 - [🔹 BetterGit](https://github.com/xAikq/bettergit)  
     CLI benefits for Git and AI assistant as a small bonus
     > Bim-bim-bam-bam
